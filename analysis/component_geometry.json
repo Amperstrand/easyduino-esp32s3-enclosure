@@ -1,0 +1,457 @@
+{
+ "D3": {
+  "footprint": "Diode_SMD:D_0402_1005Metric",
+  "u": [
+   16.725,
+   17.365
+  ],
+  "v": [
+   54.469,
+   56.029
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "D4": {
+  "footprint": "LED_SMD:LED_0402_1005Metric",
+  "u": [
+   17.8,
+   19.36
+  ],
+  "v": [
+   47.029,
+   47.669
+  ],
+  "height": 0.8,
+  "height_provenance": "conservative_assumption"
+ },
+ "R2": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   3.925,
+   4.565
+  ],
+  "v": [
+   54.469,
+   56.029
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C4": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   10.185,
+   10.805
+  ],
+  "v": [
+   25.909,
+   27.429
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R9": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   17.8,
+   19.36
+  ],
+  "v": [
+   45.729,
+   46.369
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C2": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   9.435,
+   10.055
+  ],
+  "v": [
+   52.289,
+   53.809
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R3": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   8.275,
+   8.915
+  ],
+  "v": [
+   54.469,
+   56.029
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C3": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   8.285,
+   8.905
+  ],
+  "v": [
+   52.289,
+   53.809
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "D1": {
+  "footprint": "LED_SMD:LED_0402_1005Metric",
+  "u": [
+   13.175,
+   13.815
+  ],
+  "v": [
+   54.579,
+   56.139
+  ],
+  "height": 0.8,
+  "height_provenance": "conservative_assumption"
+ },
+ "D2": {
+  "footprint": "Diode_SMD:D_0402_1005Metric",
+  "u": [
+   9.425,
+   10.065
+  ],
+  "v": [
+   54.486,
+   56.046
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R4": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   14.975,
+   15.615
+  ],
+  "v": [
+   25.969,
+   27.529
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C6": {
+  "footprint": "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I",
+  "u": [
+   6.65,
+   8.04
+  ],
+  "v": [
+   38.489,
+   42.609
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "U1": {
+  "footprint": "Espressif:ESP32-S3-WROOM-1",
+  "u": [
+   3.465,
+   22.465
+  ],
+  "v": [
+   1.139,
+   19.799
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R1": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   7.775,
+   8.415
+  ],
+  "v": [
+   25.859,
+   27.419
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "U5": {
+  "footprint": "Package_TO_SOT_SMD:SOT-223-3_TabPin2",
+  "u": [
+   9.445,
+   17.745
+  ],
+  "v": [
+   37.299,
+   43.399
+  ],
+  "height": 6.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C5": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   11.385,
+   12.005
+  ],
+  "v": [
+   25.909,
+   27.429
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R7": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   17.825,
+   18.465
+  ],
+  "v": [
+   54.479,
+   56.039
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "SW2": {
+  "footprint": "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK",
+  "u": [
+   14.295,
+   19.295
+  ],
+  "v": [
+   33.549,
+   35.549
+  ],
+  "height": 2.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "U3": {
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm",
+  "u": [
+   4.245,
+   9.945
+  ],
+  "v": [
+   45.599,
+   51.299
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "C8": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   8.985,
+   9.605
+  ],
+  "v": [
+   25.909,
+   27.429
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "SW1": {
+  "footprint": "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK",
+  "u": [
+   6.695,
+   11.695
+  ],
+  "v": [
+   33.549,
+   35.549
+  ],
+  "height": 2.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R10": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   10.805,
+   12.365
+  ],
+  "v": [
+   48.129,
+   48.769
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R5": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   16.175,
+   16.815
+  ],
+  "v": [
+   25.969,
+   27.529
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R11": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   10.815,
+   12.375
+  ],
+  "v": [
+   49.229,
+   49.869
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C9": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   17.385,
+   18.005
+  ],
+  "v": [
+   25.989,
+   27.509
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C1": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   10.635,
+   11.255
+  ],
+  "v": [
+   52.289,
+   53.809
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "Q1": {
+  "footprint": "Package_TO_SOT_SMD:SOT-23W",
+  "u": [
+   7.395,
+   10.795
+  ],
+  "v": [
+   28.849,
+   31.449
+  ],
+  "height": 1.4,
+  "height_provenance": "conservative_assumption"
+ },
+ "C10": {
+  "footprint": "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I",
+  "u": [
+   11.835,
+   15.955
+  ],
+  "v": [
+   23.254,
+   24.644
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "C7": {
+  "footprint": "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I",
+  "u": [
+   19.15,
+   20.54
+  ],
+  "v": [
+   38.689,
+   42.809
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "U2": {
+  "footprint": "Espressif:ESP32-S3-DevKitC",
+  "u": [
+   0.896,
+   24.96
+  ],
+  "v": [
+   0.1,
+   55.44
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R8": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   21.475,
+   22.115
+  ],
+  "v": [
+   54.459,
+   56.019
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "J2": {
+  "footprint": "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV",
+  "u": [
+   15.025,
+   24.665
+  ],
+  "v": [
+   56.929,
+   63.249
+  ],
+  "height": 3.3,
+  "height_provenance": "conservative_assumption"
+ },
+ "R6": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   12.025,
+   12.665
+  ],
+  "v": [
+   54.569,
+   56.129
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "J1": {
+  "footprint": "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV",
+  "u": [
+   1.155,
+   10.795
+  ],
+  "v": [
+   56.929,
+   63.249
+  ],
+  "height": 3.3,
+  "height_provenance": "conservative_assumption"
+ },
+ "Q2": {
+  "footprint": "Package_TO_SOT_SMD:SOT-23W",
+  "u": [
+   15.195,
+   18.595
+  ],
+  "v": [
+   28.849,
+   31.449
+  ],
+  "height": 1.4,
+  "height_provenance": "conservative_assumption"
+ }
+}

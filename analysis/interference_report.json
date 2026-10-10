@@ -1,0 +1,53 @@
+[
+ {
+  "name": "seated_board_interference",
+  "pass": true,
+  "value": {
+   "volume": 0.0,
+   "pads_supported": 4
+  },
+  "note": "board rests on 4 pads; rails/rim clamp, nothing intersects"
+ },
+ {
+  "name": "component_clearance",
+  "pass": true,
+  "value": {},
+  "note": "all components incl. WROOM (3.2) clear bottom+lid"
+ },
+ {
+  "name": "usb_envelope_clear",
+  "pass": true,
+  "value": 0.0,
+  "note": "both seated USB-C plugs + bend voids free of shell"
+ },
+ {
+  "name": "rails_present_over_board",
+  "pass": true,
+  "value": 0.8,
+  "note": "both rail lips overhang the board edge band"
+ },
+ {
+  "name": "rim_locates_v0",
+  "pass": true,
+  "value": 4.14,
+  "note": "v=0 rim rises above the board top face, outside the board"
+ },
+ {
+  "name": "solids_valid",
+  "pass": true,
+  "value": {
+   "bottom": 7503.9,
+   "lid": 3887.0
+  },
+  "note": "watertight B-reps, positive volume"
+ },
+ {
+  "name": "deterministic_rebuild",
+  "pass": true,
+  "value": {
+   "bottom": "eb17659a23f091e9",
+   "lid": "55cf965982a377a7"
+  },
+  "note": "hash-identical rebuild"
+ }
+]
